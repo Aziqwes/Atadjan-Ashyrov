@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F07427;
+}
+.prewiew{
+    background-image: url(/pictures/AshyrovAtadjan.png);
+    height: 1000px;
+    width: 1600px;
+    opacity: 1;
+
+    
+}
+.prewiew_text{
+    text-align: center;
+    padding-top: 400px;
+}
+.prewiew_text_h1{
+    color: white;
+   
+    font-family: 'Oswald', sans-serif;
+}
+.prewiew_text_border{
+    width: 310px;
+    height: 5px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+.prewiew_text_h2{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    letter-spacing: 5px;
+    margin-left: 29px;
+}
+
+.header {
+    
+
+}
+.nav {
+
+}
+.logo {
+}
+.nav_item {
+}
+.nav_item_ul {
+}
+.nav_item_li {
+}
